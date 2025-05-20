@@ -1,1 +1,1 @@
-// simple test harness or demo
+// NTT & iNTT definitions
