@@ -1,2 +1,2 @@
 # piop
-Polynomial Interactive Oracle Protocol 
+Polynomial Interactive Oracle Proof
